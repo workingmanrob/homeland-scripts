@@ -2,7 +2,7 @@
 #
 #
 # if using flatpak dolphin this should be the standard path
-PIPE="~/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu/Pipes/gc_pipe"
+PIPE=~/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu/Pipes/gc_pipe
 #
 echo "This should be run right after loading the game with your player in the middle of the room"
 echo
