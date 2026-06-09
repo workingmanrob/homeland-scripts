@@ -1,0 +1,3 @@
+cd ~/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu
+mkdir Pipes
+mkfifo Pipes/gc_pipe
